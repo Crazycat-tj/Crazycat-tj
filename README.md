@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Crazycat-tj
-- 👀 I’m interested in Artificial Intelligence.
-- 🌱 I’m currently learning HTML/CSS/JavaScript
+- 👀 I’m interested in Machine Learning.
+- 🌱 I’m currently learning machine learning and web coding.
 - 📫 How to reach me：tian-d-jun@foxmail.com
+- ✨ MyBlogs:Crazycat-tj.github.io
 
 <!---
 Crazycat-tj/Crazycat-tj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
