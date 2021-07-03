@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Crazycat-tj
-- 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently learning machine learning and web coding.
-- 📫 How to reach me：tian-d-jun@foxmail.com
-- ✨ MyBlogs:Crazycat-tj.github.io
+# 👋 Hey, everyone, I’m Crazycat.
 
-<!---
-Crazycat-tj/Crazycat-tj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Personal Blog
+✨ I have a personal blog, which records some of my study notes. If some of the articles I wrote helped you, I would be very happy.
+
+- Blog Address: crazycat-tj.com
+
+## Personal Info
+I am currently an undergraduate student in China. I majored in Big data, programming is my hobby.
+
+I am interested in AI, including machine learning, data mining. 
+
+My dream is to be a top hacker. Not a hacker in network security, but a hacker in a broad sense.
+
+## Hacking Code
+- Don't do things that are not fun
+- Don't do things that don't reflect your IQ
+- Don't do things without the spirit of exploration
+
