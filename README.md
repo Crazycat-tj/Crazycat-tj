@@ -3,7 +3,7 @@
 ## Personal Blog
 ✨ I have a personal blog, which records some of my study notes. If some of the articles I wrote helped you, I would be very happy.
 
-- Blog Address: crazycat-tj.com
+- Blog Address: www.crazycat-tj.com
 
 ## Personal Info
 I am currently an undergraduate student in China. I majored in Big data, programming is my hobby.
